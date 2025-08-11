@@ -520,19 +520,7 @@ export default function Portfolio() {
               </div>
             </div>
 
-            <div className="relative">
-              <div className="w-80 h-80 rounded-full bg-gradient-to-br from-blue-400 to-purple-500 dark:from-blue-500 dark:to-purple-600 p-1 transition-colors duration-300">
-                <div className="w-full h-full rounded-full bg-white dark:bg-slate-800 flex items-center justify-center transition-colors duration-300">
-                  <img
-                    src="/nigerian-developer-headshot.png"
-                    alt="Anthony Chinedu"
-                    className="w-72 h-72 rounded-full object-cover"
-                  />
-                </div>
-              </div>
-              <div className="absolute -top-4 -right-4 w-8 h-8 bg-blue-500 dark:bg-blue-400 rounded-full animate-pulse transition-colors duration-300"></div>
-              <div className="absolute -bottom-4 -left-4 w-6 h-6 bg-purple-500 dark:bg-purple-400 rounded-full animate-pulse delay-1000 transition-colors duration-300"></div>
-            </div>
+            
           </div>
         </div>
       </section>
