@@ -1058,7 +1058,7 @@ export default function Portfolio() {
       <footer className="py-8 px-4 sm:px-6 lg:px-8 bg-slate-950 dark:bg-black text-slate-400 dark:text-slate-500 text-center transition-colors duration-300">
         <div className="max-w-6xl mx-auto">
           <p>&copy; 2024 Anthony Chinedu O. All rights reserved.</p>
-          <p className="mt-2 text-sm">If I can do it, you can too. </p>
+          <p className="mt-2 text-sm">Technology moves forward when curiosity meets consistency </p>
         </div>
       </footer>
     </div>
