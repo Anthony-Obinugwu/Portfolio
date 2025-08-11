@@ -345,7 +345,7 @@ export default function Portfolio() {
         "Future Skills Planning",
       ],
       certificateUrl: "https://futurelearn.com/certificates/b4l3elq",
-      logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-jEAZJxxsHoTUY3fMnm2laCAcfAJdVR.png", // Using existing logo as placeholder
+      logo: "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-jEAZJxxsHoTUY3fMnm2laCAcfAJdVR.png",
     },
     {
       title: "Responsive Web Design Developer Certification",
