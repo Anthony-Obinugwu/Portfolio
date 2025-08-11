@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I'm Anthony Chinedu O., a passionate Software Developer. I studied Computing Science at Nile University and have co-built a startup while leading student clubs and organising seminars and events. As a software developer I work across Java, Python and SQL, using Spring Boot, Postman, Docker and Git to design, build and test full-stack applications deployed to Vercel and AWS; I also integrate LLM/AI tooling(LangChain, AstraDB) to enhance product capabilities. I follow disciplined engineering practices that produce clean, testable code and great UX — as Kent Beck puts it, "I'm not a great programmer, I'm just a good programmer with great habits."
 
 
